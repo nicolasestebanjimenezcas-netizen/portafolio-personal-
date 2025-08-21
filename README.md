@@ -1,28 +1,15 @@
-🔹 2. Verifica el estado
-
-Chequea qué archivos cambiaste (seguro style.css):
+🔹 1. Verifica el estado
 
 git status
 
-🔹 3. Agrega los cambios
-
-Selecciona los archivos modificados para subirlos:
-
-git add style.css index.html
-
-
-(Si quieres subir todo lo cambiado, usá:)
+🔹 2. Agrega los cambios
 
 git add .
 
-🔹 4. Haz un commit
-
-Describe el cambio (ejemplo: responsive):
+🔹 3. Haz un commit
 
 git commit -m "Mejoras responsive en portafolio"
 
-🔹 5. Sube los cambios a GitHub
-
-Si ya tienes configurado el remoto (ej: origin en la rama main):
+🔹 4. Sube los cambios a GitHub
 
 git push origin main
