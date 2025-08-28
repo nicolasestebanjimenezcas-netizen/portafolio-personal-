@@ -13,3 +13,10 @@ git commit -m "Mejoras responsive en portafolio"
 🔹 4. Sube los cambios a GitHub
 
 git push origin main
+
+
+
+git status
+git add .
+git commit -m "Mejoras responsive en portafolio"
+git push origin main
